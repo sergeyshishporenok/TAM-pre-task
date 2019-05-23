@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+
+<ingredients>
+    <ingredient id = "1">
+        <ingredientID>1</ingredientID>
+        <weight>20</weight>
+    </ingredient>
+    <ingredient id = "2">
+        <ingredientID>2</ingredientID>
+        <weight>30</weight>
+    </ingredient>
+    <ingredient id = "3">
+        <ingredientID>3</ingredientID>
+        <weight>40</weight>
+    </ingredient>
+</ingredients>
